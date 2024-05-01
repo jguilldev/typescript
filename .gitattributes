@@ -1,3 +1,4 @@
 C:\\Users\\joseg\\Desktop\\MARCA[[:space:]]PERSONAL\\typescript filter=lfs diff=lfs merge=lfs -text
 node_modules/node/bin/node filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+node_modules/node/node_modules/node-linux-x64/bin/node filter=lfs diff=lfs merge=lfs -text
